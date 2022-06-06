@@ -1,6 +1,6 @@
 # website
 Ruddernation Designs website.
-This is my website that is live, so any edits here will show on the website.
+This is a simple look for your website, I'm currently using this on my main website.
 
 https://www.ruddernation.com
 
